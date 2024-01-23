@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 
 ## Portfolio
 
-Work in Progress
+<p><em>
+  Work in Progress
+</em></p>
 
 ## About Me
 
