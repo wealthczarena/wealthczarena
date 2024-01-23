@@ -29,6 +29,12 @@ Work in Progress
   Creative Dev Intern | Three.js | R3F 👾
 </em></p>
 
+## Skills
+
+<div align="center">
+
+</div>
+
 ## Contact Me
 
 <p align="center">
@@ -39,7 +45,7 @@ Work in Progress
     <a href="mailto:czarenawealthh@gmail.com?subject=Hello%20Czarena,%20From%20Github">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <!--&nbsp;&nbsp;&nbsp;&nbsp;-->
+    &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
